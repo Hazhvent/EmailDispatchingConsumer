@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../EmailDispatchingConsumer.Application/EmailDispatchingConsumer.Application.csproj" />
+  <Project Path="../EmailDispatchingConsumer.Core/EmailDispatchingConsumer.Core.csproj" />
+  <Project Path="../EmailDispatchingConsumer.Infrastructure/EmailDispatchingConsumer.Infrastructure.csproj" />
+  <Project Path="EmailDispatchingConsumer.csproj" />
+</Solution>
